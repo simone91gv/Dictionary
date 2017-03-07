@@ -2,6 +2,4 @@ dog = cane
 cat = gatto
 mouse = topo
 bird = uccello
-
-
-
+lion = leone
