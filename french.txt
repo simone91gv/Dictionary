@@ -1,2 +1,3 @@
 mason = casa
 mer = mare
+ordinateur = calcolatore
