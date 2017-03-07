@@ -5,3 +5,5 @@ bird = uccello
 lion = leone
 tiger = tigre
 wolf = lupo
+dragon = drago
+
