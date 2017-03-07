@@ -3,3 +3,5 @@ cat = gatto
 mouse = topo
 bird = uccello
 lion = leone
+tiger = tigre
+wolf = lupo
