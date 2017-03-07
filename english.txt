@@ -6,4 +6,5 @@ lion = leone
 tiger = tigre
 wolf = lupo
 dragon = drago
+bear = orso
 
